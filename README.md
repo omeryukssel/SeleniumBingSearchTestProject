@@ -31,11 +31,10 @@ To run this project, you need to have the following software installed on your s
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/your-project-name.git](https://github.com/yourusername/your-project-name.git)
-    cd your-project-name
+    git clone [https://github.com/omeryukssel/SeleniumBingSearchTestProject.git]
+    cd SeleniumBingSearchTestProject
     ```
 
-    **(Note:** Replace `https://github.com/yourusername/your-project-name.git` with your actual GitHub project URL.)
 
 2.  **Install Dependencies:**
 
