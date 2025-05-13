@@ -80,18 +80,6 @@ This project was developed using the following technologies:
 - **Java**: The programming language in which the application is developed.
 - **Maven**: A build automation and dependency management tool for Java projects.
 
-## 🤝 Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1.  **Fork** the project to your own GitHub account.
-2.  Create a new development branch (`git checkout -b new-feature`).
-3.  Make your changes and commit them (`git commit -am 'Add new feature'`).
-4.  Push your changes to your remote repository (`git push origin new-feature`).
-5.  Submit a **Pull Request** (PR) to the original project on GitHub.
-
-Thank you for your contributions!
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. You can find the full text of the license in the [LICENSE](https://opensource.org/licenses/MIT) file.
